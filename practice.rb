@@ -1,6 +1,6 @@
-puts "what is your name?" 
-name = gets
-puts "Hello #{name}!"
+# puts "what is your name?" 
+# name = gets
+# puts "Hello #{name}!"
 
 
 
