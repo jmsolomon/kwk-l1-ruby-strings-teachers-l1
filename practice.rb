@@ -6,7 +6,7 @@ counter = 0
 loop do
   counter += 3  
   puts "iteration #{counter} of the loop"
-  if counter >= 8 
+  if counter >= 7 
     break
   end
 end
